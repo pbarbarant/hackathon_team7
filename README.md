@@ -11,3 +11,5 @@ mdp : Team7_Hackathon!
 * Il suffit d'importer les données dans le dossier Inputs du Google Drive
 * Puis exécuter le notebook (le dernier bloc print les résultats)
 * Le temps de traitement de chaque fichier peut prendre plusieurs dizaines de secondes pour les extraits les plus longs
+
+Le fichier de rendu est Hackathon_L4.ipynb
