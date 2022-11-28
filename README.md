@@ -4,8 +4,7 @@ Hackathon ENSAE 2022 : Equipes 7 et 11 (L4)
 
 Le notebook est fait pour tourner sous Colab avec le compte google :
 ```
-id : BechdelAI.L4@gmail.com
-mdp : Team7_Hackathon!
+id : BechdelAI.L4 [AT] gmail.com
 ```
 
 * Il suffit d'importer les données dans le dossier Inputs du Google Drive
